@@ -89,7 +89,7 @@ input, select {
 
 
 /*** Main Layout ***/
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif; background: black;}
 #wrapper {width: 960px; margin: 0 auto;}
 article {width: 66.6%; float: left;}
 aside {width: 33.3%; float: right;}
